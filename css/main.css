@@ -30,7 +30,7 @@ section { display: flex; }
 .btn-default { color: #FFFFFF; background-color: #faa541; }
 .btn-primary { color: #FFFFFF; background-color: #364147; }
 
-.form-contorl { 
+.form-control { 
     display: block;
     padding: 6px 12px;
     border: 1px solid #a0a0a0;
@@ -38,6 +38,6 @@ section { display: flex; }
     line-height: 1.4;
 }
 
-.text-light { font-size: 30px; color: a0a0a0; }
+.text-light { font-size: 30px; color: #a0a0a0; }
 .text-secdonary { font-size: 30px; color: #faa541; }
 .text-priamry { font-size: 16px; color: #364147; }
